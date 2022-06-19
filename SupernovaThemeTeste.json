@@ -1,14 +1,14 @@
-[
- {
-    "author": "Michellz", 
-    "name": "Supernova Michellz", 
-    "keyWords": "keyword1,keyword2",
-    "version": "1.0.0",
-    "dofusVersion": "2.60", 
-    "description": "Tema Coco-Sadi editado por Michellz", 
-    "url": "https://github.com/heheeheheh/Supernova-Theme-Dofus/raw/main/SupernovaThemeMichellz.zip",
-    "previewUrl": "https://raw.githubusercontent.com/heheeheheh/Supernova-Theme-Dofus/main/Tema.png", 
-    "creationDate": "19/06/2022", 
-    "modificationDate": "19/06/2022"
-    } 
+[ 
+    {
+        "author" : "Shinki", 
+        "name" : "Starlight Glimmer", 
+        "keyWords" : "starlight,glimmer", 
+        "version" : "1.0.4", 
+        "dofusVersion" : "2.37", 
+        "description" : "Thème basé sur le personnage de Starlight Glimmer.", 
+        "url" : "https://github.com/heheeheheh/Supernova-Theme-Dofus/raw/main/SupernovaThemeMichellz.zip", 
+        "previewUrl" : "http://puu.sh/rX6bG/37cb3a3def.png", 
+        "creationDate" : "27/10/2016", 
+        "modificationDate" : "27/10/2016" 
+    }
 ]
