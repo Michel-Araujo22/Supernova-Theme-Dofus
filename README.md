@@ -1,2 +1,2 @@
 # Supernova-Theme-Dofus
-1
+Teste de um tema personalizado da guilda Supernova para o Dofus
